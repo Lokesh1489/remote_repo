@@ -1,2 +1,1 @@
-1st line in file1 by dev A
-this line is added by dev B
+new file is added by dev B
